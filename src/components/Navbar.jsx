@@ -4,7 +4,7 @@ function Navbar() {
   const [open, setopen] = useState(false);
   return (
     <>
-      <div className="flex flex-row justify-between w-[90%] mx-auto items-center py-2 ">
+      <div className="flex flex-row justify-between px-[10%] mx-auto items-center py-2 ">
         <div className="flex flex-row space-x-4 items-center">
           <img src="./logo.png" alt="" className="w-8 h-8 object-contain" />
           <p className="font-semibold">WebUnity</p>

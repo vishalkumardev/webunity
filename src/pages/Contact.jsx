@@ -95,7 +95,7 @@ function Contact() {
 
         <button
           type="submit"
-          className="px-6 bg-white py-1 rounded-full text-primary font-semibold w-1/5 text-sm"
+          className="px-6 bg-white py-1 rounded-full text-primary font-semibold md:w-1/5 text-sm"
         >
           Send
         </button>

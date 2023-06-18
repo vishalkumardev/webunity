@@ -4,7 +4,7 @@ function Services() {
   return (
     <>
       <div
-        className="flex  md:flex-row my-10 w-[85%] justify-center items-center mx-auto flex-wrap-reverse"
+        className="flex  md:flex-row my-10 px-[10%] justify-center items-center mx-auto flex-wrap-reverse"
         id="service"
         data-aos="fade-right"
         ata-aos-duration="3000"

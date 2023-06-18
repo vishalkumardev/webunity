@@ -4,7 +4,7 @@ function Pricing() {
   return (
     <div>
       <section
-        className="bg-white "
+        className="bg-white px-[10%] "
         data-aos="fade-down"
         ata-aos-duration="3000"
         id="pricing"

@@ -2,7 +2,7 @@ import React from "react";
 
 function Teams() {
   return (
-    <div className="flex w-[85%] mx-auto my-10 py-10" id="teams">
+    <div className="flex px-[10%] mx-auto my-10 py-10" id="teams">
       <div className="grid lg:grid-cols-4 gap-4 md:grid-cols-2 grid-cols-1">
         <div
           className="bg-slate-100 shadow-2xl rounded-lg p-5 flex justify-center items-center flex-col"

@@ -3,7 +3,7 @@ import React from "react";
 function Features() {
   return (
     <div
-      className="grid lg:grid-cols-3 gap-4 md:grid-cols-2 grid-cols-1  w-[85%] mx-auto my-4"
+      className="grid lg:grid-cols-3 gap-4 md:grid-cols-2 grid-cols-1  px-[10%] mx-auto my-4"
       id="features"
       data-aos="fade-down"
       ata-aos-duration="3000"
